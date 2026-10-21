@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for discord-bot-cogkwa on 2026-10-21T08:47:17Z
+# fly.toml app configuration file generated for discord-bot-atl9fg on 2026-10-21T09:09:23Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'discord-bot-cogkwa'
+app = 'discord-bot-atl9fg'
 primary_region = 'fra'
 
 [build]
